@@ -20,7 +20,7 @@ For the model that does not use FNG features, the 10 day window model seems to p
 
 Comparison of charts for closing prices model:
 ![closing_prices_10.png](Images/closing_prices_10.png) 
-![closing_prices_30.png](Images/closing_prices_30.png) 
+![closing_prices_30.png](Images/closing_prices_30.png)
 ![closing_prices_60.png](Images/closing_prices_60.png)
 
 For the model using FNG features, increasing the rolling numbers slightly imrpoves the model loss for the 30 day window but performs worse for the 60 days window. In any case, irrespective of the window choice, the model performance is not as accurate as the prior model. 
